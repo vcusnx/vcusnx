@@ -24,7 +24,7 @@
 
 > ## 🛣️ **My links**
 >
-> - [Telegram Channel](https://t.me/road_to_wamyt "Road to WAMYT (Russian)")
+> - [Telegram Channel](https://t.me/road_to_bigtech "Road to WAMYT (Russian)")
 >
 > - [Telegram](https://t.me/vcusnx "My personal account")
 
