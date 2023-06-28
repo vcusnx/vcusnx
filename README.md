@@ -6,7 +6,7 @@
 >
 > - _Laptop: Honor MagicBook X14, I3_
 >
-> - _IDEs and Code Editor: IntelliJ IDEA, Android Studio, VS Code_
+> - _IDEs and Code Editor: IntelliJ IDEA, VS Code_
 
 ---
 
@@ -16,16 +16,14 @@
 >
 > - `Kotlin`
 >
-> - `C#`
->
 > - `PostgreSQL`
 
 ---
 
 > ## 🛣️ **My links**
 >
-> - [Telegram Channel](https://t.me/road_to_bigtech "Road to WAMYT (Russian)")
+> - [Telegram Channel](https://t.me/road_to_bigtech "road to bigtech (Russian)")
 >
-> - [Telegram](https://t.me/vcusnx "My personal account")
+> - [Telegram](https://t.me/vcusnx "my profile")
 
 ---
