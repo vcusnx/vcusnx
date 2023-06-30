@@ -6,7 +6,7 @@
 >
 > - _Laptop: Honor MagicBook X14, I3_
 >
-> - _IDEs and Code Editor: IntelliJ IDEA, VS Code_
+> - _IDE and Code Editor: IntelliJ IDEA, VS Code_
 
 ---
 
