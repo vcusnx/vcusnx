@@ -6,7 +6,7 @@
 >
 > - _Laptop: Honor MagicBook X14, I3_
 >
-> - _IDE and Code Editor: IntelliJ IDEA, VS Code_
+> - _IDE and Code Editor: Visual Studio 2022, VS Code_
 
 ---
 
@@ -14,7 +14,9 @@
 >
 > - `Java`
 >
-> - `Kotlin`
+> - `C#`
+>
+> - TypeScript (In Progress)
 >
 > - `PostgreSQL`
 
@@ -22,8 +24,8 @@
 
 > ## 🛣️ **My links**
 >
-> - [Telegram Channel](https://t.me/road_to_bigtech "road to bigtech (Russian)")
+> - [Telegram Channel](https://t.me/road_to_bigtech "road to bigtech (Russian Telegram Channel)")
 >
-> - [Telegram](https://t.me/vcusnx "my profile")
+> - [Telegram](https://t.me/vcusnx "Me")
 
 ---
