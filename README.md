@@ -16,7 +16,7 @@
 >
 > - `C#`
 >
-> - TypeScript (In Progress)
+> - `TypeScript` _(In Progress)_
 >
 > - `PostgreSQL`
 
