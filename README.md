@@ -1,7 +1,7 @@
 # 👋🏻 Welcome to my GitHub
 
-My name is Grigory and I'm a student at Kuban Institute of Professional Education.
-I'm interested in programming and Computer Science.
+#### My name is Grigory and I'm a student at Kuban Institute of Professional Education.
+#### I'm interested in programming and Computer Science.
 
 <br>
 
