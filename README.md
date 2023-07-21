@@ -16,7 +16,7 @@
 ## ✨ **I'm currently learning**
  | Language | Why |
  | --- | --- |
- | C/C++ | Computer Scince |
+ | C/C++/Rust | Computer Scince |
  | C# | Work & Gamedev
  | JS/TS | Work & Personal Projects |
  | PostgreSQL | Work & Personal Projects | 
