@@ -1,7 +1,10 @@
-# 👋🏻 Welcome to my GitHub
+<h1 align="center">👋🏻 Welcome to my GitHub</h1>
 
-#### My name is Grigory and I'm a student at Kuban Institute of Professional Education.
-#### I'm interested in programming and Computer Science.
+<h3 align="center">
+ My name is Grigory and I'm a student at Kuban Institute of Professional Education. <br>
+ I'm interested in programming and Computer Science.
+</h3> 
+
 
 <br>
 
