@@ -1,32 +1,23 @@
-<h1 align="center">👋🏻 Welcome to my GitHub</h1>
+<h1 align="center">👋🏻 welcome to my github</h1>
 
-<h3 align="center">
- My name is Grigory and I'm a student at Kuban Institute of Professional Education. <br>
- I'm interested in programming and Computer Science.
-</h3> 
+## 💻 **workstation**
 
-
-<br>
-
-## 💻 **Workstation**
-
-- **OS**: `Windows 11`, `WSL - Ubuntu`
-- **Laptop**: `Honor MagicBook X14, I3`
-- **IDE and Code Editor**: `Visual Studio 2022`, `VS Code`
+- **os**: `windows 11`, `wsl - ubuntu`
+- **laptop**: `honor magicbook x14, i3`
+- **ide and code editor**: `visual Studio 2022`, `vs code`
 
 <br>
 
-## ✨ **I'm currently learning**
- | Language | Why |
+## ✨ **currently learning**
+ | language | for what |
  | --- | --- |
- | C/C++/Rust | Computer Science |
- | C# | Work & Gamedev
- | JS/TS | Work & Personal Projects |
- | PostgreSQL | Work & Personal Projects | 
+ | c# | my projects, and gamedev
+ | js/ts | work and my projects |
+ | PostgreSQL | work and my projects | 
 
 <br>
 
-## 🛣️ **My links**
+## 🛣️ **social**
 
-- **[Telegram Channel](https://t.me/road_to_bigtech "road to bigtech (Russian Telegram Channel)")**
-- **[Telegram](https://t.me/vcusnx "Me")**
+- **[my telegram channel](https://t.me/road_to_bigtech "road to bigtech (russian)")**
+- **[my telegram](https://t.me/vcusnx "this is my telegram profile")**
