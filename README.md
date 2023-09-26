@@ -13,7 +13,7 @@
  | --- | --- |
  | c# | my projects, and gamedev
  | js/ts | work and my projects |
- | PostgreSQL | work and my projects | 
+ | postgresql | work and my projects | 
 
 <br>
 
