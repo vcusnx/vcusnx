@@ -14,10 +14,3 @@
  | c# | my projects, and gamedev
  | js/ts | work and my projects |
  | postgresql | work and my projects | 
-
-<br>
-
-## 🛣️ **social**
-
-- **[my telegram channel](https://t.me/road_to_bigtech "road to bigtech (russian)")**
-- **[my telegram](https://t.me/vcusnx "this is my telegram profile")**
