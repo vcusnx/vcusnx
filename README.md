@@ -1,16 +1,17 @@
-<h1 align="center">👋🏻 welcome to my github</h1>
+<h1 align="center">👋🏻 Welcome to My GitHub</h1>
 
-## 💻 **workstation**
+## 💻 **Workstation**
 
-- **os**: `windows 11`, `wsl - ubuntu`
-- **laptop**: `honor magicbook x14, i3`
-- **ide and code editor**: `visual Studio 2022`, `vs code`
+- **OS**: `Windows 11`, `WSL: Ubuntu`
+- **Laptop**: `Honor MagicBook x14 (I3)`
+- **IDEs and code editor**: `IntelliJ Idea`, `Visual Studio 2022`, `VS Code`
 
 <br>
 
-## ✨ **currently learning**
- | language | for what |
+## ✨ **Currently Learning**
+ | Language | For what |
  | --- | --- |
- | c# | my projects, and gamedev
- | js/ts | work and my projects |
- | postgresql | work and my projects | 
+ | Kotlin | Main language & Projects |
+ | C# | Projects & Gamedev
+ | JS, TS | Projects & Web |
+ | PostgreSQL | SQL DB for projects | 
