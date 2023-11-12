@@ -1,17 +1,25 @@
-<h1 align="center">👋🏻 Welcome to My GitHub</h1>
+# Greetings! 👋
 
-## 💻 **Workstation**
+## About Me
+Hello, I'm Grigory, a passionate student and programmer hailing from Russia. I find inspiration in the challenges of code, striving to craft exceptional solutions using Kotlin, Java, Rust, and SQL with PostgreSQL.
 
-- **OS**: `Windows 11`, `WSL: Ubuntu`
-- **Laptop**: `Honor MagicBook x14 (I3)`
-- **IDEs and code editor**: `IntelliJ Idea`, `Visual Studio 2022`, `VS Code`
+## Skills
+- 🚀 Kotlin, Java, Rust
+- 🐘 PostgreSQL
+- 🔧 Backend Development in Spring
 
-<br>
+## Projects
+You can find my projects in the [Repositories](https://github.com/vcusnx?tab=repositories)
 
-## ✨ **Currently Learning**
- | Language | For what |
- | --- | --- |
- | Kotlin | Main language & Projects |
- | C# | Projects & Gamedev
- | JS, TS | Projects & Web |
- | PostgreSQL | SQL DB for projects | 
+## Education
+Currently pursuing my studies at *Kuban Institute of Professional Education* specializing in *CS Programming in Computer Systems*.
+
+## GitHub Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vcusnx)](https://github.com/anuraghazra/github-readme-stats)
+
+## Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/vcusnx/)
+- [Telegram](https://vcusnx.t.me)
+
+## Additional Information
+- My interests span mathematics, history, and the pursuit of mastering English, Spanish and Russian languages.
