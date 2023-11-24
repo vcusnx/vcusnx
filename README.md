@@ -4,9 +4,9 @@
 Hello, I'm Grigory, a passionate student and programmer hailing from Russia. I find inspiration in the challenges of code, striving to craft exceptional solutions using Kotlin, Java, Rust, and SQL with PostgreSQL.
 
 ## Skills
-- 🚀 Kotlin, Java, Rust
-- 🐘 PostgreSQL
-- 🔧 Backend Development in Spring
+- 🚀 Kotlin, Rust
+- 🐘 PostgreSQL, Redis
+- 🔧 Backend Development
 
 ## Projects
 You can find my projects in the [Repositories](https://github.com/vcusnx?tab=repositories)
