@@ -4,7 +4,7 @@
 Hello, I'm Grigory, a passionate student and programmer hailing from Russia. I find inspiration in the challenges of code, striving to craft exceptional solutions using Kotlin, Java, Rust, and SQL with PostgreSQL.
 
 ## Skills
-- 🚀 Kotlin, Rust
+- 🚀 Kotlin, Java. Interest in Rust.
 - 🐘 PostgreSQL, Redis
 - 🔧 Backend Development
 
